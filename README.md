@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Avijit 👋<br>I’m a passionate developer currently learning and building projects in Java and open source. I enjoy solving problems, improving my coding skills, and exploring new technologies.<br><br>🚀 Currently focusing on: Java, DSA & Open Source<br>🌱 Always learning and growing<br>💡 Interested in building real-world projects and collaborations
+<h1>Hi, I’m Avijit</h1> 👋<br>I’m a passionate developer currently learning and building projects in Java and open source. I enjoy solving problems, improving my coding skills, and exploring new technologies.<br><br>🚀 Currently focusing on: Java, DSA & Open Source<br>🌱 Always learning and growing<br>💡 Interested in building real-world projects and collaborations
 
 
 # 💻 Tech Stack:
