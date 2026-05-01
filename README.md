@@ -22,7 +22,7 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="390" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk4NDdkbHUwNG9rOXllaWJwcTRjcW52YWFhNTJrZnVlMXQ0ZjA0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif"/>
 
 ### 🌌 &nbsp;About Me
 
