@@ -22,7 +22,7 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="390" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk4NDdkbHUwNG9rOXllaWJwcTRjcW52YWFhNTJrZnVlMXQ0ZjA0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="500" height="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ### 🌌 &nbsp;About Me
 
